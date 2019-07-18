@@ -356,7 +356,7 @@ def main():
         trip_duration_stats(df)
         user_stats(df)
         restart = input('\nWould you like to restart? Enter yes or no.\n')
-        if restart.lower() != 'yes':
+        if restart.lower() not in ['y', 'yes', 'Y', 'Yes']:
             #print(df.head(10))
             break
 
