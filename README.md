@@ -5,7 +5,7 @@ Created on July 18, 2019 by Newton Chan
 Udacity Bikeshare Data Analysis Project
 
 ### Description
-This project is a python script run to analyze different sets of data for a bikeshare company operating in 3 different cities.
+This project is a python script for analysis of bikeshare user data from 3 different cities.
 
 ### Files used
 The files used are bikeshare.py and the three datasets, chicago.csv, new_york_city.csv, and washington.csv.
