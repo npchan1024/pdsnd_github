@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+Created on July 18, 2019 by Newton Chan
 
 ### Project Title
-Replace the Project Title
+Udacity Bikeshare Data Analysis Project
 
 ### Description
-Describe what your project is about and what it does
+This project is a python script run to analyze different sets of data for a bikeshare company operating in 3 different cities.
 
 ### Files used
-Include the files used
+The files used are bikeshare.py and the three datasets, chicago.csv, new_york_city.csv, and washington.csv.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Credit to the Udacity Data Science Nanodegree program for providing the instruction and datasets for this project.
