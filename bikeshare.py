@@ -12,13 +12,15 @@ CITY_DATA = { 'Chicago': 'chicago.csv',
 
 MONTH_NAME = { 'January': 'jan', 'February': 'feb', 'March': 'mar',
                'April': 'apr', 'May': 'may', 'June': 'jun'}
-# Maybe do no data months after
+
+# Use for later to handle user input of July to December.
                #'July': 'jul', 'August': 'aug', 'September': 'sep', 
                #'October': 'oct', 'November': 'nov', 'December': 'dec'}
 
 MONTH_SHORT = {'jan': 'January', 'feb': 'February', 'mar': 'March',
                'apr': 'April', 'may': 'May', 'jun': 'June'}
-# For no data months
+
+# To be used later to handle user input of July to December.
                #'jul': 'July', 'aug': 'August', 'sep': 'September', 
                #'oct': 'October', 'nov': 'November', 'dec': 'December'}
 
